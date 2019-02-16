@@ -9,12 +9,12 @@ A simple and easy to use reCAPTCHA (v3 only) library for the browser. (You may b
 ## Install
 With NPM:
 ```bash
-$ npm install recaptcha-v3
+$ npm install mercurial-recaptcha-v3
 ```
 
 With Yarn:
 ```bash
-$ yarn add recaptcha-v3
+$ yarn add mercurial-recaptcha-v3
 ```
 
 ## Prerequisites
@@ -24,7 +24,7 @@ To use this package you only need a valid site key for your domain, which you ca
 
 With promises:
 ```javascript
-import { load } from 'recaptcha-v3'
+import { load } from 'mercurial-recaptcha-v3'
 
 load('<site key>').then((recaptcha) => {
   recaptcha.execute('<action>').then((token) => {
