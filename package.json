@@ -1,10 +1,14 @@
 {
   "name": "mercurial-recaptcha-v3",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "keywords": [
     "captcha",
     "recaptcha",
-    "recaptcha-v3"
+    "recaptcha-v3",
+    "typescript",
+    "ts",
+    "typed",
+    "types"
   ],
   "bugs": {
     "url": "https://github.com/mercurial/recaptcha-v3/issues"
